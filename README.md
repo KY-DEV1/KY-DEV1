@@ -1,3 +1,17 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KY-DEV1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/KY-DEV1)
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KY-DEV1&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
+
+
+
+
+
+
 <div align="center">
 <a href="https://youtube.com/c/">
     <img
@@ -12,7 +26,6 @@
 - 👨‍💻 I am Not a Programmer
 - 🌱 I am currently learning JavaScript
 - 🔴 I am a beginner
-- 📧 My Business Email ikii64063@gmail.com
 
 
 ### Connect with me ☎️
