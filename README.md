@@ -33,7 +33,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{KY-DEV1}/count.svg" alt="KY-DEV :: Visitor's Count" /></p>
 <p align="center"><img src="https://count.getloli.com/get/@KY-DEV1-github-readme?theme=rule34" /></p>
 <p align="center">
-  <a href="https://wa.me/6283866945961"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
   <a href="https://t.me/Xinnn129_2"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/KY-DEV1"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 </p>
