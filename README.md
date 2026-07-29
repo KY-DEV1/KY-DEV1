@@ -1,12 +1,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KY-DEV1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/KY-DEV1)
 
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KY-DEV1&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
-
-
 <!-- Banner -->
 <div align="center">
   <img src="https://files.catbox.moe/ew0ek8.jpg" alt="Banner" style="width: 100%; max-width: 800px;">
