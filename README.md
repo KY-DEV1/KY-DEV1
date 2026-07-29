@@ -37,10 +37,6 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/KY-DEV1"><img src="https://github-readme-stats.vercel.app/api?username=KY-DEV1&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/KY-DEV1"><img src="https://streak-stats.demolab.com/?user=KY-DEV1&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/KY-DEV1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KY-DEV1&theme=chartreuse-dark&layout=compact"></a></p> 
-
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
